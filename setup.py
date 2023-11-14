@@ -5,11 +5,11 @@ from setuptools import find_packages
 with open("README.md", "r") as f:
     page_description = f.read()
 
-with open("requisitos.txt") as f:
+with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing_package",
+    name="processamento_imagem_itl",
     version="0.0.1",
     autor="Italo",
     email="italo18sil@gmail.com",
