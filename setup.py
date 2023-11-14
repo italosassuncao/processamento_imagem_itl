@@ -16,7 +16,7 @@ setup(
     descricao="Vazio",
     descricao_longa=page_description,
     descricao_longa_tipo_conteudo="text/markdown",
-    url="",
+    url="https://github.com/italosassuncao/processamento_imagem_itl",
     packages=find_packages(),
     install_requires=requirements,
     python_requires=">=3.6"
