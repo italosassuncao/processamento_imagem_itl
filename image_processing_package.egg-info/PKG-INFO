@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: image-processing-package
+Version: 0.0.1
+Home-page: 
+Requires-Python: >=3.6
+Requires-Dist: scikit-image~=0.22.0
+Requires-Dist: matplotlib~=3.8.1
+Requires-Dist: numpy~=1.26.2
+Requires-Dist: setuptools~=68.2.2

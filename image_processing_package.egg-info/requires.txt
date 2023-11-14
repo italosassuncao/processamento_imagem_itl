@@ -1,0 +1,4 @@
+scikit-image~=0.22.0
+matplotlib~=3.8.1
+numpy~=1.26.2
+setuptools~=68.2.2
